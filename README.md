@@ -7,7 +7,7 @@ An intelligent, full-stack **AI mock interview platform** built with modern tech
 
 ## 🔗 Live Demo
 
-👉 Try it live: [https://your-app.vercel.app](https://your-app.vercel.app)
+👉 Try it live: [https://your-app.vercel.app](https://ai-mock-interview-app-swart.vercel.app))
 
 > Replace with your actual deployment link
 
